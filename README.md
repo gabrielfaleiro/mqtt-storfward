@@ -5,6 +5,7 @@ High performant mqtt store and forward application
 
 *  [ ] Test mqtt libraries on c++
 *  [ ] Test Redis libraries on c++
+*  [ ] Implment logging during runtime
 *  [ ] Implement configuration files for managing store and forward functionalities
 *  [ ] Implment performance parameters
 *  [ ] Implement multiple databases to store messages
