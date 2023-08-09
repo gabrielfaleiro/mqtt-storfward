@@ -11,7 +11,7 @@ High performant mqtt store and forward application
 *  [ ] Implement multiple protocols to store and forward messages
 *  [ ] Update configuration files for managing each type of database and protocol
 
-## Installation
+## Development
 
 ### Dev Environment
 * https://code.visualstudio.com/docs/languages/cpp
@@ -19,3 +19,5 @@ High performant mqtt store and forward application
 ### MQTT libraries
 * https://mosquitto.org/api/files/mosquitto-h.html#mosquitto.h
 * https://www.eclipse.org/lists/mosquitto-dev/msg01248.html
+* https://gist.github.com/evgeny-boger/8cefa502779f98efaf24
+
